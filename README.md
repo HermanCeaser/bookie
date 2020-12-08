@@ -23,7 +23,7 @@ Bookie is a crossplatform app that enables users to book their favorite hotels i
 
 ### Installation
 
-- clone the project at [Bookie](http://github.com/HermanCeaser/Bookie)
+- clone the project at [Bookie](http://github.com/HermanCeaser/bookie.git)
 - cd into project directory
 - run `$ npm install` to install dependencies
 - run `$ ionic serve` and you should be able to preview app from your browser
